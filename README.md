@@ -8,9 +8,7 @@
 ## 个人信息
  + 杨西川/男/1993
  + 大专/成都理工大学
- + 工作年限：4年
- + Github：https://github.com/ceeyang
- + 备注: 目前正自考本科, PMP备考中
+ + 工作年限：5年
 
 ## 工作经历
 + 深圳市联恒网络科技有限公司　iOS开发工程师 （ 2018.06 ~ 至今 ）
@@ -20,7 +18,8 @@
 ## 项目经验
 ###  深圳市联恒网络科技有限公司
 
-##### 咻视频
+##### [咻视频(Swift)][204]
+###### 免费观影APP, 每台设备限制观影次数, 开通VIP增加观影次数, 该项目目前处于测试阶段
 + 负责移动端视频项目整体架构, 技术选型
 + 负责 iOS 新技术的研究, 引入, iOS 应用组件化框架设计与搭建
 + 负责整体项目进度, 与客户沟通, 技术难点攻克
@@ -34,21 +33,20 @@
 
 ### 深圳市知学云科技有限公司
 ##### [知学云网络学院(iOS 原生)][203]
-###### 知学云学院是一款面向企业的移动在线学习云平台。包含课程,知识库,新闻,考试,调研,问吧等多个模块,学员可以利用 APP 学习企业各方面的知识和课程,参加最新的班级活动等,参与考试。
+###### 知学云学院是一款面向企业的移动在线学习云平台。包含课程,知识库,新闻,考试,调研,问吧等多个模块,学员可以利用 APP 学习企业各方面的知识和课程,参加最新的班级活动等,参与考试, 该项目目前主要是面对企业的, 暂不开发用户自主注册功能,如果需要账号体验,请联系我,谢谢体谅
 + 版本重构, 纯代码布局，适配 iPad，整体框架修改，积分商城，问吧等新功能开发, 编写项目60%代码
 + 对已有 bug 的修改，新功能(积分商城，学习路径，问吧)模块开发
 + 熟悉项目原有业务流程，整合新技术，完善开发文档方便后期维护。线上 bug 的调试与修改等
 + 按时完成新功能的开发与重构代码，提前上线。获得了更好的用户体验，用户反馈的满意度增加
-+ 技术概况: AFNetworking, Masonry 适配 iPad, SDWebImage 等.
 
-##### [中移网大(跨平台)][201]
+##### [中移网大(Vue2.0)][201]
 ###### 中移网大是中国移动的在线学习平台，为企业员工提供涵盖多个类别数千门优质课程、数百个精品主题及大量优秀工作实践案例等学习资源，是企业员工碎片化、体系化、社交化、实效化学习的工具。
 + 从零开始学习 HTML5, JavaScript, Vue2.x
 + 项目采用跨平台开发模式支持 iOS, Android 界面布局一致
 + 原生交互实现使用 Cordova 开放性插件如: 扫一扫、终端类型判断、手机横竖屏监听等接口，Web 端使用基于 Vue 开发的工具插件如 Swipe,日历,弹窗,等
 + 项目从零到项目发布,前端语言从零开始到入手开发项目
 
-##### [知学云学院(微信)][200]
+##### [知学云学院(微信小程序)][200]
 ###### 在线学习平台知学云学院的微信小程序；</br>
 + 使用 Vue2.x 搭建整个应用程序开发框架，封装全局模块，底层数据请求
 + 使用 Vuex 进行各个模块的状态管理
@@ -60,28 +58,28 @@
 - [iOSAutoBuild][000]: iOS 自动打包脚本,包括导出 ipa, 上传到七牛云, 发送邮件通知测试
 - [swiftScan][001]: 同其他人协作开发 swift 版的二维码识别框架; 为框架支持 Carthage
 - [Git 快速入门教程][100]: 手把手教你入门 Git, Git 命令详解
-- [App 热修复详解][101]: 热修复框架 JSPath 集成, iOS 热修复功能集成详解;
 
 
 ## 技能清单
 - iOS 开发：Objective-C, Swift, CocoaPods, Carthage
     - AFNetworking, SDWebImage, Masonry...
-    - Alamofire, Kingfisher, SnapKit...
-- 前端开发：Cordova, JavaScript, Vue2.x
+    - Alamofire, Kingfisher, SnapKit, HandyJSON...
+- 前端开发：Cordova, JavaScript, Vue2.x, Flutter
 - 版本管理：Git/SVN
 
 
 ## 致谢
     感谢您花时间阅读我的简历，期待能有机会和您共事。
-    在线版简历: https://github.com/ceeyang/resume
+    另外提供一份在线版简历: https://github.com/ceeyang/resume
 
 [300]:http://h5.bo2.space/#/login
 [301]:http://h5.lovc.one
 
-[200]:http://demo.zhixueyun.com/wechat/
+[200]:https://demo.zhixueyun.com/wechat/#/
 [201]:https://itunes.apple.com/cn/app/%E4%B8%AD%E7%A7%BB%E7%BD%91%E5%A4%A7/id1313669861?mt=8
 [202]:https://itunes.apple.com/cn/app/pei-ban-pei-xun-ren-hao-huo/id1072624547?l=en&mt=8
 [203]:https://itunes.apple.com/cn/app/zhi-xue-yun-xue-yuan/id1066182728?l=en&mt=8
+[204]:https://www.pgyer.com/msvodx
 
 
 [000]:https://github.com/ceeyang/iOSAutoBuild
