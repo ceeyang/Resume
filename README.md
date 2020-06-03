@@ -20,14 +20,14 @@
 - 团队领导能力
 - 参与多个企业级大型项目开发
 - 能独立完成高质量原生 iOS 以及跨平台APP
-- Flutter, Vue, React Native, 微信小程序
+- Flutter, Vue, 微信小程序
 
 ## 项目经验
 
 ### 深圳市消安科技有限公司
-##### 指挥消防
-###### 城市指挥消防系统
-+ 纯 Swift 开发.
+##### 智慧消防
+###### 城市智慧消防系统, 火警以及其他消防突发事件应预案, 应急处理, 在线监控室
++ Swift 结合 H5 开发.
 + 负责整个项目进度把控,需求沟通
 + 负责 iOS 端开发. H5 集成.
 + 新技术学习,SwiftUi, Flutter集成等.
@@ -40,7 +40,7 @@
 + Cordova+Vue2跨平台开发，负责项目的课程，知识，专题，积分商城等模块开发。
 
 #####  [培伴-培训人的好伙伴(已上线)][206]
-###### 培伴是一款供用户在线离线学习，在线观看直播，在线互动的app。项目已经上架AppStore。
+###### 培伴是与江苏培训杂志社合作的一款在线杂志APP,包括在线学习的软件，在线观看直播，在线互动等功能。项目已经上架AppStore。
 + 直播模块，可以在线观看老师演讲，回顾之前直播
 + 问吧模块，用户可以提问，解答问题，互赞 ，互动
 + 个人模块，可以查看离线下载的课程，充值学币用来购买需要购买的课程，杂志，报告
@@ -73,6 +73,7 @@
 - [iOSAutoBuild][000]: Shell脚本，使用 xcodebuild 命令实现 iOS 自动打包脚本,包括导出 ipa, 上传到七牛云, 发送邮件通知测试
 - [swiftScan][001]: 同其他人协作开发 swift 版的二维码识别框架; 为框架支持 Carthage
 - [Git 快速入门教程][100]: 手把手教你入门 Git, Git 命令详解
+- [BasicTools][002]: Flutter组件化开发的基础组件,包含公用第三方库已经自己封装的一些组件,打造 Flutter 开发利器
 
 
 ## 致谢
@@ -94,6 +95,7 @@
 
 [000]:https://github.com/ceeyang/iOSAutoBuild
 [001]:https://github.com/ceeyang/swiftScan
+[002]:https://github.com/ceeyang/BasicTool
 
 [100]:http://ceeyang.com/blog/2017/06/25/Git-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/
 [101]:http://ceeyang.com/blog/2017/01/05/App-Hotfix(%E7%83%AD%E4%BF%AE%E5%A4%8D)%E8%AF%A6%E8%A7%A3/
