@@ -87,7 +87,7 @@
 
 ## 致谢
     感谢您花时间阅读我的简历，期待能有机会和您共事。
-    另外提供一份在线版简历: https://ceeyang.com/Resume/
+    另外提供一份在线版简历: https://github.com/ceeyang/resume/
 
 
 [300]:http://h5.bo2.space/#/login
