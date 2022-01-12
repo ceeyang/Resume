@@ -10,11 +10,10 @@
 + 成都理工大学
 
 ## 工作经历
-+ 成都艾途教育有限公司     高级移动端工程师  （2021.10 ~ 至今）  
++ 成都艾途教育有限公司     高级移动端工程师  （2021.10 ~ 至今） 
 + 深圳市创链数据有限公司     高级前端工程师  ( 2020.11 ~ 2021.09 )
 + 深圳市消安科技有限公司     高级前端工程师  ( 2019.05 ~ 2020.10 )  
 + 深圳市知学云科技有限公司     高级移动端工程师 （ 2016.02 ~ 2019.05 ）
-+ 成都睿道科技有限公司     iOS开发工程师 （ 2014.12 ~ 2016.01 ）　
 
 ## 技能清单
 - Oobject-C, Swift, Flutter, Vue, 微信小程序
@@ -24,6 +23,15 @@
 - 代码强迫症患者
 
 ## 项目经验
+
+### 成都艾途教育有限公司
+#### i2School[500]/i2School 员工端[501]
+##### i2School 是[i2全外教少儿英语]自主研发的一款配音学习软件，它不仅包括电影、电视剧、脱口秀等热门经典视频的配音,还有【i2全外教少儿英语】科创团队原创的《Act Out！》、《Copycat That》以及外教或学员互动的原创视频、动画等内容
++ 独立维护 i2School 与 i2School 员工端
++ 采用 Mobx 作为状态管理工具. 
++ 常用工具 fluro 路由工具, Dio 网络请求, shared_preferences 本地储存等工具.
++ 编写自动打包脚本,配合 drone-server 持续集成项目.
+
 
 ### 深圳市创链数据有限公司
 #### 盘好店[APP][400]/微信小程序/盘好店[BAAS][401]平台
@@ -84,6 +92,8 @@
     另外提供一份在线版简历: https://github.com/ceeyang/resume/
 
 
+[500]:https://a.app.qq.com/o/simple.jsp?pkgname=com.i2edu.school.school_parent&channel=0002160650432d595942&fromcase=60001
+[501]:https://a.app.qq.com/o/simple.jsp?pkgname=com.i2edu.school.school_employee&fromcase=40002
 
 [400]:https://pisa.innochain.tech/appDownload/
 [401]:https://pisa.innochain.tech/baas
