@@ -82,13 +82,8 @@
 - [Git 快速入门教程][100]: 手把手教你入门 Git, Git 命令详解
 - [BasicTools][002]: Flutter组件化开发的基础组件,包含公用第三方库已经自己封装的一些组件,打造 Flutter 开发利器
 
-## 个人信息
-+ 杨西川/男/1993
-+ 成都理工大学
-
 ## 致谢
     感谢您花时间阅读我的简历，期待能有机会和您共事。
-    另外提供一份在线版简历: https://ceeyang.com/Resume/
 
 
 [500]:https://a.app.qq.com/o/simple.jsp?pkgname=com.i2edu.school.school_parent&channel=0002160650432d595942&fromcase=60001
