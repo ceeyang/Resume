@@ -12,8 +12,9 @@
 + 深圳市知学云科技有限公司     高级移动端工程师 （ 2016.02 ~ 2019.05 ）
 
 ## 技能清单
-- Oobject-C, Swift, Flutter, Vue, 微信小程序
+- Flutter，Oobject-C, Swift, Vue, 微信小程序
 - 能独立完成高质量原生 iOS 以及跨平台APP
+- Flutter 原生插件开发，Flutter 桌面端开发
 - 参与多个企业级大型项目开发
 
 ## 项目经验
