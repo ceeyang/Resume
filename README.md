@@ -6,18 +6,31 @@
 + QQ/微信号：18108120400
 
 ## 工作经历
-+ 成都艾途教育有限公司     高级移动端工程师  （2021.10 ~ 2023.01） 
-+ 深圳市创链数据有限公司     高级前端工程师  ( 2020.11 ~ 2021.09 )
-+ 深圳市消安科技有限公司     高级前端工程师  ( 2019.05 ~ 2020.10 )  
-+ 深圳市知学云科技有限公司     高级移动端工程师 （ 2016.02 ~ 2019.05 ）
+|  |  |  |
+|---------------------|-----------|-------------|
+| &nbsp;&nbsp; - 广州医和你信息科技有限公司 | 高级前端工程师       | 2022.05 ~ 2023.06 |
+| &nbsp;&nbsp; - 成都艾途教育有限公司      | 高级移动端工程师     | 2021.10 ~ 2022.05  |
+| &nbsp;&nbsp; - 深圳市创链数据有限公司    | 高级iOS工程师       | 2020.11 ~ 2021.09  |
+| &nbsp;&nbsp; - 深圳市消安科技有限公司    | 高级iOS工程师       | 2019.05 ~ 2020.10  |
+| &nbsp;&nbsp; - 深圳市知学云科技有限公司   | iOS开发工程师        | 2016.02 ~ 2019.05 |
 
 ## 技能清单
 - Flutter，Oobject-C, Swift, Vue, 微信小程序
 - 能独立完成高质量原生 iOS 以及跨平台APP
 - Flutter 原生插件开发，Flutter 桌面端开发
 - 参与多个企业级大型项目开发
+- Vue 网页开发
 
 ## 项目经验
+
+### 广州医和你信息科技有限公司
+#### [医和你][600]/[医和你医小助][601]/[医和你小程序][606]
+##### [医和你][602]是一个开放的互联网医疗O2O平台，引领未来医疗模式。线上（医小助）开展医患咨询、预约、诊后管理，实现就诊流程创新；线下开设诊疗中心;在线问诊平台。
++ APP 采用 FlutterBoost 插件进行混编，搭配 CTMediator 库，实现 APP 页面路由化，结合 WKWebview 访问网页，实现服务器下发跳转路由。
++ Flutter 项目采用 GetX 作为状态管理工具，网络请求，数据存储，组件封装等。
++ 小程序采用 [Wepy][603] 平台进行开发，成功上线。
++ [Ant Design Vue][604] 组件实现管理端页面，配合 [Vant 2][605] 实现手机APP嵌入式 H5 页面。
+
 
 ### 成都艾途教育有限公司
 #### [i2School][500]/[i2School 员工端][501]
@@ -84,6 +97,13 @@
 ## 致谢
     感谢您花时间阅读我的简历，期待能有机会和您共事。
 
+[600]:https://a.app.qq.com/o/simple.jsp?pkgname=com.yiheni.msop.general
+[601]:https://a.app.qq.com/o/simple.jsp?pkgname=com.yiheni.msop.assistant
+[602]:https://www.yiheni.cn/
+[603]:https://github.com/Tencent/wepy
+[604]:https://www.antdv.com/components/overview
+[605]:https://vant-ui.github.io/vant/v2/#/zh-CN/home
+[606]:#小程序://快约名医/lqzXEIgFAwYiZsG
 
 [500]:https://a.app.qq.com/o/simple.jsp?pkgname=com.i2edu.school.school_parent&channel=0002160650432d595942&fromcase=60001
 [501]:https://a.app.qq.com/o/simple.jsp?pkgname=com.i2edu.school.school_employee&fromcase=40002
